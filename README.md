@@ -19,7 +19,7 @@ This repository aims to:
 
 ## Current Problems
 
-### 1. [Cracking the Black-Box](Cracking_Black-Box.ipynb)
+### 1. [Cracking the Black-Box](1.Cracking_Black-Box.ipynb)
 A problem involving implied volatility estimation using numerical methods.
 
 ### 2. [Randomly Signed Harmonic Series]
