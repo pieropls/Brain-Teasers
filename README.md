@@ -19,4 +19,8 @@ This repository aims to:
 
 ## Current Problems
 
-### 1. [Cracking the Black-Box](Cracking.Black-Box.ipynb): A problem involving implied volatility estimation using numerical methods.
+### 1. [Cracking the Black-Box](Cracking.Black-Box.ipynb)
+A problem involving implied volatility estimation using numerical methods.
+
+### 2. [Randomly Signed Harmonic Series]
+An exploration of the stochastic process derived from the harmonic series with randomly assigned signs, using martingale theory to analyze its convergence.
