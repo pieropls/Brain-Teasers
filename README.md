@@ -1,4 +1,4 @@
-# Brain-Teasers
+# Brain Teasers
 
 <div align="center">
   <img src="Brain_Teasers_Logo.png" alt="Brain-Teasers Logo" width="300">
