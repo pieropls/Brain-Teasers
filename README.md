@@ -1,7 +1,7 @@
 # Brain-Teasers
 
 <div align="center">
-  <img src="Brain-Teasers-Logo.png" alt="Brain-Teasers Logo" width="300">
+  <img src="Brain_Teasers_Logo.png" alt="Brain-Teasers Logo" width="300">
 </div>
 
 <p align="center">
