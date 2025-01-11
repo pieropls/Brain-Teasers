@@ -1,5 +1,9 @@
 # Brain-Teasers
 
+<div align="center">
+  <img src="Brain-Teasers-Logo.png" alt="Brain-Teasers Logo" width="300">
+</div>
+
 Welcome to **Brain-Teasers**, a collection of carefully selected problems in financial mathematics designed to showcase coding proficiency, mathematical insight, and problem-solving ability in the context of finance. 
 
 ## Purpose of the Project
