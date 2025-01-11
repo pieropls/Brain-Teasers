@@ -26,9 +26,11 @@ This repository aims to:
 
 A numerical challenge exploring implied volatility estimation through the use of a "black-box" function. This project combines financial mathematics, coding, and visualization to uncover hidden relationships in option pricing.
 
+*Note*: Image is generated with assistance from OpenAI's DALL·E.
+
 </td>
 <td>
-<img src="Brain_Teasers_Logo.png" alt="Cracking the Black-Box Logo" width="150">
+<img src="1.Cracking_Black-Box.png" alt="Cracking the Black-Box Logo" width="300">
 </td>
 </tr>
 </table>
