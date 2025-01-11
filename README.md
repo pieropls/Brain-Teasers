@@ -46,7 +46,7 @@ A mathematical exploration of the harmonic series with randomly assigned signs, 
 
 </td>
 <td>
-<img src="2.Harmonic.Series.png" alt="Randomly Signed Harmonic Series Logo" width="300">
+<img src="2.Harmonic.Series.png" alt="Randomly Signed Harmonic Series Logo" width="340">
 </td>
 </tr>
 </table>
