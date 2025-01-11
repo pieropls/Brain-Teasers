@@ -26,7 +26,7 @@ This repository aims to:
 
 A numerical challenge exploring implied volatility estimation through the use of a "black-box" function. This project combines financial mathematics, coding, and visualization to uncover hidden relationships in option pricing.
 
-*Note*: Image is generated with assistance from OpenAI's DALL·E.
+*Note*: Image was generated with assistance from OpenAI's DALL·E.
 
 </td>
 <td>
@@ -42,7 +42,7 @@ A numerical challenge exploring implied volatility estimation through the use of
 
 A mathematical exploration of the harmonic series with randomly assigned signs, analyzed through the lens of martingale theory. This project demonstrates the almost sure convergence of the series and provides insights into its stochastic properties.
 
-*Note*: Image is generated with assistance from OpenAI's DALL·E.
+*Note*: Image was generated with assistance from OpenAI's DALL·E.
 
 </td>
 <td>
