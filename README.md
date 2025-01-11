@@ -36,4 +36,17 @@ A numerical challenge exploring implied volatility estimation through the use of
 </table>
 
 ### 2. [Randomly Signed Harmonic Series]
-An exploration of the stochastic process derived from the harmonic series with randomly assigned signs, using martingale theory to analyze its convergence.
+<table>
+<tr>
+<td>
+
+A mathematical exploration of the harmonic series with randomly assigned signs, analyzed through the lens of martingale theory. This project demonstrates the almost sure convergence of the series and provides insights into its stochastic properties.
+
+*Note*: Image is generated with assistance from OpenAI's DALL·E.
+
+</td>
+<td>
+<img src="2.Harmonic.Series.png" alt="Randomly Signed Harmonic Series Logo" width="300">
+</td>
+</tr>
+</table>
